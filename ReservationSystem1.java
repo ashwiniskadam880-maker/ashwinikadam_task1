@@ -71,7 +71,7 @@ passengerName="";
 System.out.println("No ticket found or already cancelled!");
 }
 }else if(choice ==3){
-System.out.println("Thank you!");
+System.out.println("Thank you!....");
 break;
 }else{
 System.out.println("Invalid Choice!");
